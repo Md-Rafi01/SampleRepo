@@ -1,3 +1,3 @@
 # SampleRepo
 
-# Zomato Landing Page Clone
+## Zomato Landing Page Clone
